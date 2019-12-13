@@ -1,0 +1,71 @@
+body{
+	background-color:lavenderblush;
+    text-align:center; 
+}
+
+h1{
+	color:skyblue;
+	font-family:Arial;
+	background-color:white;
+	background-position:center;
+	padding:20px;
+	background-size: 50px;
+	width:500px;
+	text-align:center;
+	margin-left:480px;
+
+}
+
+p{
+	color:peachpuff;
+	text-align:center;
+	background-color:white;
+	opcity:0.4;
+}
+
+h2{
+	color:skyblue;
+    text-align:center;
+}
+
+ol{
+	color:skyblue;
+	text-align:center;
+
+}
+
+li{
+	color:skyblue;
+	text-align:center;
+
+}
+
+ul{
+	color:skyblue;
+	
+}
+
+a {
+  color:pink;
+  text-decoration:none;
+}
+
+
+/* mouse over link */
+a:hover{
+	color:hotpink;
+}
+
+
+
+
+#yellow{
+	color:Khaki;
+}
+
+#center{
+	text-align:center;
+}
+
+#
+
